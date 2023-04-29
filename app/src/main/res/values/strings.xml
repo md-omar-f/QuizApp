@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="quiz_image_description">quiz image</string>
+    <string name="question_text">somecontent</string>
+    <string name="buttonYes_text">Yes</string>
+    <string name="buttonNo_text">No</string>
+    <string name="restartButton_text">Restart</string>
+</resources>
